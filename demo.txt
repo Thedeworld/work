@@ -1,2 +1,4 @@
 Thi isis my new file of codes
 tis is my 2nd line
+3rd line og my file
+4th ine of my repository
